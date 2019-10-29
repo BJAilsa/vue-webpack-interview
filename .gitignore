@@ -1,0 +1,12 @@
+#some local files
+node_modules
+*/.idea/
+.idea/
+*/.DS_Store
+.DS_Store
+dist/
+project/
+src/assets/info/
+npm-debug.log
+*.zip
+package-lock.json
